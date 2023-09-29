@@ -18,4 +18,5 @@ I think there are several ways to discuss this. First, when it comes to music co
 
 # Week 2-Notation
 ## Identify a piece of music
-
+This week I chose Taylor Swift's Blank Space from her "1989" album. This is a very popular song, and I also exported it as a PDF version.
+An image of the transcript is attached below, alternatively, the transcript can be downloaded from MuseScore.
