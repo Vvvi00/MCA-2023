@@ -18,7 +18,7 @@ I think there are several ways to discuss this. First, when it comes to music co
 
 # Week 2-Notation
 ## Identify a piece of music
-This week I chose Taylor Swift's Blank Space from her "1989" album. This is a very popular song, and I also exported it as a [PDF version](https://github.com/Vvvi00/MCA-2023/files/12765245/Blank.Space.Taylor.Swift.pdf).
+This week I chose Taylor Swift's Blank Space from her "1989" album. This is a very popular song, and I also exported it as a [PDF version](https://github.com/Vvvi00/MCA-2023/files/12793216/Blank.Space.Taylor.Swift.pdf).
 An image of the transcript is attached below, alternatively, the transcript can be downloaded from [MuseScore](https://github.com/Vvvi00/MCA-2023/blob/34adad8ff66699d520ea7c012faf52c36d22aa3a/Blank%20Space%20Taylor%20Swift.mscz).
 <img width="610" alt="截屏2023-09-29 13 18 38" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/29b289ae-1321-46f1-9e9d-9d98cc87676c">
 <img width="605" alt="截屏2023-09-29 13 19 11" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/fd09d152-4ba3-49f9-98f5-59d8db3921a7">
