@@ -1,5 +1,6 @@
 # MCA-2023
-[week1](week1.md)
+[Week1](Week1.md)
+[Week2](Week2.md)
 
 # Week 1-Basic of music data
 ## Task 1-Identify a theme
