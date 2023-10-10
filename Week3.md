@@ -9,3 +9,5 @@ Download the MEI file [here](https://github.com/Vvvi00/MCA-2023/blob/master/Blan
 ## Task 2-Rendering the MEI file with Verovio
 
 [here](Vvvi00.github.io/MCA-2023/verovio.html)
+
+{% include_relative verovio_inline.html %}
