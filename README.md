@@ -4,4 +4,4 @@
 
 [Week2](LabTasks/Week2/Week2.md)
 
-[Week3](Week3.md)
+[Week3](LabTasks/Week3/Week3.md)
