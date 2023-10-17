@@ -1,6 +1,6 @@
 # Week 2-Notation
 ## Task 1-Identify a piece of music
- This week I chose Taylor Swift's Blank Space from her "1989" album. This is a very popular song, and I also exported it as a [PDF version](https://github.com/Vvvi00/MCA-2023/files/12793216/Blank.Space.Taylor.Swift.pdf).
+ This week I chose Taylor Swift's Blank Space from her "1989" album. This is a very popular song, and I also exported it as a [PDF version](../../data/Blank.Space.Taylor.Swift.pdf).
  
  An image of the transcript is attached below, alternatively, the transcript can be downloaded from [MuseScore](https://github.com/Vvvi00/MCA-2023/raw/master/Blank%20Space%20Taylor%20Swift.mscz).
 <img width="610" alt="截屏2023-09-29 13 18 38" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/29b289ae-1321-46f1-9e9d-9d98cc87676c">
