@@ -1,4 +1,4 @@
-# Week 1-Basic of music data
+# Week 1 - Basic of music data
 ## Task 1-Identify a theme
 The topic of my dataset is Taylor Swift, a famous American singer. I chose her as my topic because I have always loved her songs and knowing more about her was more beneficial to me to complete this task.
 Taylor Swift began songwriting at the age of 14 and became a country singer in 2005 when she signed with Big Machine Records. With more than 200 million records sold worldwide, Swift is one of the best-selling musicians of all time, the most-played female artist on Spotify, and the only artist with five U.S. albums that have sold more than 1 million copies in their first week. She has released very popular albums such as "Fearless", "1989" and "Red".
