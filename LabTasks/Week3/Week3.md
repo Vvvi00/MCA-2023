@@ -7,4 +7,4 @@ Based on last week's task, I exported the transcribed composition from MuseScore
 
 ## Task 2-Rendering the MEI file with Verovio
 
-{% include_relative verovio_inline.html %}
+{% include_relative ../../verovio_inline.html %}
