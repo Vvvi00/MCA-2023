@@ -1,4 +1,4 @@
-# Week5 - Standards in Curation
+# Week 5 - Standards in Curation
 ## Task1-Create a metadata schema
 My group has a selection of different musical pieces, from classical music to pop songs, so the metadata we choose is quite broad. Here are some of the metadata elements I've chosen to relate to my work:
 
