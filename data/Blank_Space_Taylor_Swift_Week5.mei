@@ -9,6 +9,7 @@
             <respStmt>
                <resp>Encoded by</resp>
                <name>Yuwei He</name>
+               <persName role="lyr" startdate="1989" auth.uri="http://viaf.org/viaf/88580701" auth="VIAF" xml:id="worklyricist">Taylor Swift</persName>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="p1cqzgw1">
@@ -20,6 +21,7 @@
             </address>
             <date isodate="2023-10-05" type="encoding-date">2023-10-05</date>
          </pubStmt>
+
       </fileDesc>
       <encodingDesc xml:id="efy7r24">
          <appInfo xml:id="aha7joc">
