@@ -11,3 +11,5 @@
 [Week5](LabTasks/Week5/Week5.md)
 
 [Week7](LabTasks/Week7/Week7.md)
+
+[Week8](LabTasks/Week8/Week8.html)
