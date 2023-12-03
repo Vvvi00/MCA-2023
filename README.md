@@ -13,3 +13,5 @@
 [Week7](LabTasks/Week7/Week7.md)
 
 [Week8](LabTasks/Week8/Week8.md)
+
+[Week9](LabTasks/Week9/Week9.md)
