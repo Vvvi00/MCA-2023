@@ -10,7 +10,7 @@ Queencard | (G)-Idle | (G)-Idle | CC BY-NC-SA | Kpop | [YouTube](https://youtu.b
 ## Task 2-Spectrogram of Chosen Music Pieces
 ### Cruel Summer
 - Waveform:
-<img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/6f5da2ad-c6cf-4907-bf23-66de31181676">
+<img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/bd6b73ee-3b7d-49e3-92eb-9c4282493f16">
 
 - Spectrogram:
 <img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/80308f5c-729b-421e-945a-fffca282995f">
@@ -35,3 +35,5 @@ Waveforms can represent the shape, form, and amplitude of audio waves at a given
 Waveform analysis is very dense with information, but does not provide that information in an easy-to-read format. It provides us with amplitude or energy levels at specific points in time, but lacks numerical data. Time-frequency analysis, on the other hand, provides a detailed representation of how the frequency content of a signal changes over time， we can gather more data from musical compositions and present it as information to use.
 
 For example, as can be seen by the spectrogram and waveforms of “Queencard”, we can't learn much about the song from the waveforms other than the dynamics over time. Looking at the spectrogram, which provides a localized and time-specific examination of the frequency content of the signal, one can clearly see where one note ends and another begins in this song.
+
+<img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/152d8c5d-bf0d-4d7a-92e7-901a3bc53713">
