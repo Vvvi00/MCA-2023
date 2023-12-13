@@ -14,4 +14,4 @@ My group has a selection of different musical pieces, from classical music to po
 - Rhythm: The tempo of the transcribed piece of music.
 
 ## Task2-Modify my MEI document
-Here is my updated [MEI file](../../data/Blank_Space_Taylor_Swift_Week5.mei) for Week 5.
+Once we selected the elements for the MEI file, we were asked to enter them into the file and test each contents to make sure they worked. Here is my updated [MEI file](../../data/Blank_Space_Taylor_Swift_Week5.mei) for Week 5.
