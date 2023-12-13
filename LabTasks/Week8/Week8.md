@@ -10,24 +10,24 @@ Queencard | (G)-Idle | (G)-Idle | CC BY-NC-SA | Kpop | [YouTube](https://youtu.b
 
 ## Task 2-Spectrogram of Chosen Music Pieces
 ### Cruel Summer
-- Waveform:
+##### Waveform:
 <img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/bd6b73ee-3b7d-49e3-92eb-9c4282493f16">
 
-- Spectrogram:
+##### Spectrogram:
 <img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/80308f5c-729b-421e-945a-fffca282995f">
 
 ### Animals
-- Waveform:
+##### Waveform:
 <img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/506abfb8-9c69-4645-bf8e-0587e3437786">
 
-- Spectrogram:
+##### Spectrogram:
 <img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/a2ffeca8-3c35-475f-aa45-9ff1aa731ae2">
 
 ### Queencard
-- Waveform:
+##### Waveform:
 <img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/b5a684b1-c97d-4707-bb17-1692f9a7a0a0">
 
-- Spectrogram:
+##### Spectrogram:
 <img width="360" alt="image" src="https://github.com/Vvvi00/MCA-2023/assets/145675705/59f499a5-d32e-45e6-95ea-81b9a49f48de">
 
 ## Task 3-Comparing Analysis Methods
