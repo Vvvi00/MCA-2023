@@ -12,6 +12,7 @@
 ### Good points:
 - The score is roughly accurate
 - Can express tuplet notes and clefs very well
+
 ### Changes needed:
 - Score information must be added (e.g. title, composer, etc.)
 - The beat and many notes are not very accurate and need to be calibrated and modified one by one.
