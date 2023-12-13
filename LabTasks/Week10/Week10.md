@@ -2,7 +2,7 @@
 ## Task 1-Similarity
 For this task, I decided to reuse the tracks from last week's assignment. In addition to these tracks, I also used the tracks given in the Favorites folder assigned this week. In the similarity matrix, tracks 0-3 are classical, tracks 4-6 are rock, and tracks 7-9 are music of my own choosing. In terms of my tracks, track 7 is Cruel Summer, track 8 is Animals, and track 9 is Queencard. As the matrix shows, tracks 0-3 are very different from tracks 7-9, but tracks 4-6 show some similarities between rock and pop music, especially Cruel Summer-Taylor Swift, which can be seen as follows some elements of classical music are also incorporated in their music.
 
-The plot graph makes it clearer how similar Cruel Summer is to rock music, and how dissimilar my choice of music is to classical music. However, this graph is only based one the occurence of C's and A's
+The plot graph makes it clearer how similar Cruel Summer is to rock music, and how dissimilar my choice of music is to classical music. However, this graph is only based one the occurence of C's and A's.
 
 Similarity Matrix | Plot Graph
 ----- | -----
