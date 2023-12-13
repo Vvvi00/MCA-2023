@@ -11,8 +11,8 @@
                <resp>Encoded by</resp>
                <name>Yuwei He</name>
                <persName role="lyr" startdate="1989" auth.uri="http://viaf.org/viaf/88580701" auth="VIAF" xml:id="worklyricist">Taylor Swift</persName>
-               <persName role="encoder">Max Martin</persName>
-               <persName role="encoder">Johan Kari Schuster</persName>
+               <persName role="composer">Max Martin</persName>
+               <persName role="composer">Johan Kari Schuster</persName>
             </respStmt>
          </titleStmt>
          <pubStmt xml:id="p1cqzgw1">
