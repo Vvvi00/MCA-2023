@@ -1,5 +1,5 @@
 # Week 4-Basic Analytics
-## Generating a piano roll and a pitch histogram
+## Integrating Analysis Files
 #### Piano roll:
 
 ![Pitch](https://github.com/Vvvi00/MCA-2023/assets/145675705/a5769933-5b0e-4df6-a214-b7e3a31009d7) | The piano roll extracted exhibits the chronological arrangement, duration, and pitch of the played notes over time. Its coherence aligns with other analytical data on this page. This alignment is evident when juxtaposing it with the histogram, where the prevalence of notes in the histogram corresponds to the representation in the piano roll.
